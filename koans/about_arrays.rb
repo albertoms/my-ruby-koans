@@ -23,7 +23,7 @@ class AboutArrays < Neo::Koan
     assert_equal [1, 2, 333], array
   end
 
-  # todo: confirm that ":" is another way to declare an object
+  # to-do: confirm that ":" is another way to declare an object
   def test_accessing_array_elements
     array = [:peanut, :butter, :and, :jelly, "nice"]
 
