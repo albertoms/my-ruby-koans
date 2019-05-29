@@ -37,4 +37,6 @@ class AboutAsserts < Neo::Koan
   def test_fill_in_values
     assert_equal 2, 1 + 1
   end
+
+  # done
 end
