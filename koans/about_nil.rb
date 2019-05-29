@@ -37,4 +37,5 @@ class AboutNil < Neo::Koan
     # Maybe the first option is better, because it's a oneliner an easy to read as well.
   end
 
+  # done
 end
