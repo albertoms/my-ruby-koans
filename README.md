@@ -1,5 +1,13 @@
 # My Ruby Koans
 
+To see current progress, I should call the file `path_to_enlightenment.rb` while ih the koans directory:
+
+```
+~/my-ruby-koans/koans $ ruby path_to_enlightenment.rb
+```
+
+Otherwise I'd get path errors.
+
 ## To-dos
 
 Whenever I find something I don't quite understand I leave a comment using the syntax:
